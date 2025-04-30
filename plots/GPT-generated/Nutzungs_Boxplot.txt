@@ -1,0 +1,19 @@
+📦 Linker Plot – ZHAW vs. Nicht-ZHAW:
+	•	Mittelwert und Verteilung der Nutzungshäufigkeit
+	•	Farblich differenziert:
+	•	🟩 Nicht-ZHAW (False)
+	•	🔷 ZHAW-Studierende (True)
+
+📌 Interpretation:
+	•	ZHAW-Studierende tendieren leicht zu höherer Nutzungshäufigkeit, aber Überlappung ist erkennbar
+
+⸻
+
+📦 Rechter Plot – Geschlecht:
+   Jetzt ist der rechte Plot mit eigenständigen Farben für Geschlecht dargestellt:
+	•	🟧 Männlich = Orange
+	•	🔵 Weiblich = Blau
+
+📌 Interpretation:
+	•	Männliche Teilnehmende zeigen eine etwas breitere und tendenziell höhere Verteilung in der Nutzung
+    

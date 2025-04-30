@@ -1,0 +1,6 @@
+Perfekt – jetzt hast du den Plot mit klaren Y-Achsen-Beschriftungen:
+	•	Die Erfahrungskategorien sind nun gut lesbar (z. B. Zeitersparnis, Kreative Impulse, …)
+	•	Die Farben zeigen weiterhin die Gruppenverteilung
+	•	Die Zahl im Balken gibt die Anzahl Nennungen pro Gruppe und Kategorie an
+
+⸻

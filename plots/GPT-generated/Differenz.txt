@@ -1,0 +1,5 @@
+Lesen Altersgruppe
+"→ „Wie sehr hat KI meine Erwartungen übertroffen oder verfehlt?“" 
+
+	•	✅ Positive Werte: Die Erfüllung war besser als erwartet
+	•	✅ Negative Werte: Die Erwartungen wurden nicht erreicht (→ Enttäuschung)

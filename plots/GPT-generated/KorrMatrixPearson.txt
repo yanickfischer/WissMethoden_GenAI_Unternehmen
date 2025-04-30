@@ -1,0 +1,13 @@
+📈 Starke positive Korrelationen:
+	•	Vertrauen ↔ Weiterempfehlung: 0.87 → wer KI vertraut, empfiehlt sie auch
+	•	Kompetenz ↔ Vertrauen: 0.78 → wer sich kompetent fühlt, vertraut auch den Ergebnissen
+	•	Kompetenz ↔ Weiterempfehlung: 0.70
+
+🔗 Mittlere Korrelation:
+	•	Nutzung ↔ Vertrauen: 0.43
+	•	Nutzung ↔ Kompetenz: 0.39
+	•	Nutzung ↔ Pos. Erfahrungen: 0.36
+
+🧊 Schwache oder keine Korrelation:
+	•	Neg. Erfahrungen korrelieren schwach negativ mit Vertrauen, Empfehlung, etc.
+	•	Pos. und Neg. Erfahrungen sind kaum gegensätzlich korreliert (-0.03) – interessant!

@@ -1,0 +1,10 @@
+Der Radarplot zeigt dir auf einen Blick, wie die Erwartungen an generative KI je Gruppe über alle Kategorien verteilt waren:
+	•	✔ Jede Linie stellt eine Gruppe dar
+	•	✔ Die Fläche zeigt: je größer, desto höhere Erwartungen
+	•	✔ Farblich getrennt und sauber nach deinen Vorgaben
+
+⸻
+
+🔍 Interpretation leicht gemacht:
+	•	ZHAW-Gruppen (insbesondere weiblich) hatten tendenziell höhere Erwartungen über alle Kategorien hinweg
+	•	Berufstätige sind in ihren Erwartungen zurückhaltender, v. a. bei „Zuverlässigkeit“ und „Arbeitsentlastung“

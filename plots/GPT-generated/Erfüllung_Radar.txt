@@ -1,0 +1,10 @@
+Top – dieser zweite Radarplot zeigt dir nun die tatsächlich erfüllten Erwartungen pro Gruppe in derselben Struktur wie zuvor:
+	•	✔ Direkter Vergleich möglich zum vorherigen Erwartungsplot
+	•	✔ Gleiche Kategorien, gleiche Skala (1–5), gleiche Farben
+
+⸻
+
+💡 Interpretation:
+	•	ZHAW-Gruppen haben höhere Erwartungen, aber die Erfüllung liegt darunter
+	•	Berufstätige schneiden im Erfüllungsplot relativ besser ab, obwohl sie vorher weniger erwartet haben (besonders bei Kreativität und Innovation)
+	•	Die Form der Flächen ist asymmetrisch → zeigt, dass nicht alle Kategorien gleich gut performt haben

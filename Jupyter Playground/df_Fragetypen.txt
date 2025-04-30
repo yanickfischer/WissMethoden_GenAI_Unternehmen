@@ -1,0 +1,55 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 47 entries, 0 to 46
+Data columns (total 48 columns):
+ #   Column                                                                                                                                                   Non-Null Count  Dtype  
+---  ------                                                                                                                                                   --------------  -----  
+ 0   Antwort ID                                                                                                                                               47 non-null     int64  
+ 1   Geschlecht                                                                                                                                               47 non-null     object 
+ 2   Altersgruppe                                                                                                                                             47 non-null     object 
+ 3   E-Mail                                                                                                                                                   47 non-null     object 
+ 4   ZHAW-Student                                                                                                                                             47 non-null     object 
+ 5   Wie häufig nutzen Sie aktuell generative KI im Arbeitskontext? [Benutzung KI]                                                                            47 non-null     int64  
+ 6   Wo setzen Sie Generative KI typischerweise ein? [Texterstellung und -bearbeitung (z.B. Verfassung von Mails, Artikel oder Zusammenfassungen)]            47 non-null     object 
+ 7   Wo setzen Sie Generative KI typischerweise ein? [Kreative Inhalte erstellen (z.B. Bilder, Musik, Videos, Designs etc.)]                                  47 non-null     object 
+ 8   Wo setzen Sie Generative KI typischerweise ein? [Programmieren und Automatisieren (z.B. Code schreiben, Fehler beheben etc.)]                            47 non-null     object 
+ 9   Wo setzen Sie Generative KI typischerweise ein? [Lernen und Bildung (z.B. individuelle Erklärungen, Zusammenfassungen, Lernhilfe etc.)]                  47 non-null     object 
+ 10  Wo setzen Sie Generative KI typischerweise ein? [Kommunikation und Übersetzung verbessern (z.B. Korrektur von Texten, Übersetzungen von Artikeln etc.)]  47 non-null     object 
+ 11  Welche Erwartungen hatten Sie an die Generative KI vor der Nutzung? [Effizienz]                                                                          47 non-null     int64  
+ 12  Welche Erwartungen hatten Sie an die Generative KI vor der Nutzung? [Kreativität]                                                                        47 non-null     int64  
+ 13  Welche Erwartungen hatten Sie an die Generative KI vor der Nutzung? [Arbeitsentlastung]                                                                  47 non-null     int64  
+ 14  Welche Erwartungen hatten Sie an die Generative KI vor der Nutzung? [Zuverlässigkeit]                                                                    47 non-null     int64  
+ 15  Welche Erwartungen hatten Sie an die Generative KI vor der Nutzung? [Innovation]                                                                         47 non-null     int64  
+ 16  Welche dieser Erwartungen wurden erfüllt? [Effizienz][Skala 1]                                                                                           47 non-null     int64  
+ 17  Welche dieser Erwartungen wurden erfüllt? [Effizienz][Skala 2]                                                                                           47 non-null     int64  
+ 18  Welche dieser Erwartungen wurden erfüllt? [Kreativität][Skala 1]                                                                                         47 non-null     int64  
+ 19  Welche dieser Erwartungen wurden erfüllt? [Kreativität][Skala 2]                                                                                         47 non-null     int64  
+ 20  Welche dieser Erwartungen wurden erfüllt? [Arbeitsentlastung][Skala 1]                                                                                   47 non-null     int64  
+ 21  Welche dieser Erwartungen wurden erfüllt? [Arbeitsentlastung][Skala 2]                                                                                   47 non-null     int64  
+ 22  Welche dieser Erwartungen wurden erfüllt? [Zuverlässigkeit][Skala 1]                                                                                     47 non-null     int64  
+ 23  Welche dieser Erwartungen wurden erfüllt? [Zuverlässigkeit][Skala 2]                                                                                     47 non-null     int64  
+ 24  Welche dieser Erwartungen wurden erfüllt? [Innovation][Skala 1]                                                                                          47 non-null     int64  
+ 25  Welche dieser Erwartungen wurden erfüllt? [Innovation][Skala 2]                                                                                          47 non-null     int64  
+ 26  Welche positiven Erfahrungen habe Sie mit Generativer KI gemacht? [Zeitersparnis]                                                                        47 non-null     object 
+ 27  Welche positiven Erfahrungen habe Sie mit Generativer KI gemacht? [Kreative Impulse]                                                                     47 non-null     object 
+ 28  Welche positiven Erfahrungen habe Sie mit Generativer KI gemacht? [Entlastung (Zeit + Aufwand)]                                                          47 non-null     object 
+ 29  Welche positiven Erfahrungen habe Sie mit Generativer KI gemacht? [Qualität]                                                                             47 non-null     object 
+ 30  Welche positiven Erfahrungen habe Sie mit Generativer KI gemacht? [Keine bemerkbaren Effekte]                                                            47 non-null     object 
+ 31  Welche negativen Erfahrungen haben Sie mit Generativer KI gemacht? [Ungenaue Resultate]                                                                  47 non-null     object 
+ 32  Welche negativen Erfahrungen haben Sie mit Generativer KI gemacht? [Fehlender Datenschutz]                                                               47 non-null     object 
+ 33  Welche negativen Erfahrungen haben Sie mit Generativer KI gemacht? [Verbreitung von Fehlinformationen (Fake News)]                                       47 non-null     object 
+ 34  Welche negativen Erfahrungen haben Sie mit Generativer KI gemacht? [Abhängigkeit von Technologie]                                                        47 non-null     object 
+ 35  Welche negativen Erfahrungen haben Sie mit Generativer KI gemacht? [Verlust von Originalität / menschlicher Kreativität]                                 47 non-null     object 
+ 36  Wie stark vertrauen Sie den Resultaten von Generativer KI?                                                                                               47 non-null     int64  
+ 37  Hat Generative KI Ihre Arbeitsweise verändert?                                                                                                           47 non-null     object 
+ 38  Wie kompetent fühlen Sie sich im Umgang mit Generativer KI?                                                                                              47 non-null     int64  
+ 39  Hatten Sie Schulungen oder Trainings im Zusammenhang mit Generativer KI?                                                                                 47 non-null     object 
+ 40  Wie 4 unterstützt Ihr Unternehmen die Nutzung von Generativer KI? [Technologische Infrastruktur]                                                         47 non-null     int64  
+ 41  Wie 4 unterstützt Ihr Unternehmen die Nutzung von Generativer KI? [Guidelines zur Benutzung von Generativer KI]                                          47 non-null     int64  
+ 42  Wie 4 unterstützt Ihr Unternehmen die Nutzung von Generativer KI? [Schulungen / Kurse / Webinare]                                                        47 non-null     int64  
+ 43  Wie 4 unterstützt Ihr Unternehmen die Nutzung von Generativer KI? [Rechtliche Richtlinien]                                                               47 non-null     int64  
+ 44  Wie 4 unterstützt Ihr Unternehmen die Nutzung von Generativer KI? [Kulturelle Offenheit]                                                                 47 non-null     int64  
+ 45  Würden Sie Generative KI Ihren Mitmenschen weiterempfehlen? [Weiterempfehlung]                                                                           47 non-null     int64  
+ 46  Planen Sie, Generative KI in Zukunft (mehr) zu nutzen?                                                                                                   47 non-null     object 
+ 47                                                                                                                                                           0 non-null      float64
+dtypes: float64(1), int64(25), object(22)
+memory usage: 17.8+ KB

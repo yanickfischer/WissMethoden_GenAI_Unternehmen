@@ -1,0 +1,17 @@
+Hier ist die minimalistische Heatmap wie gewünscht:
+	•	✔️ Keine Achsenbeschriftungen (weder Gruppen noch Kategorien)
+	•	✔️ Quadratische Form
+	•	✔️ Nur Farbskala und farbige Hauptmatrix sichtbar
+	•	✔️ Farbbedeutung bleibt wie zuvor:
+	•	🔵 Weniger Erfahrungen
+	•	🔴 Mehr Erfahrungen
+	•	⚪ Mittelbereich
+
+Hier ist die minimalistische Heatmap wie gewünscht:
+	•	✔️ Keine Achsenbeschriftungen (weder Gruppen noch Kategorien)
+	•	✔️ Quadratische Form
+	•	✔️ Nur Farbskala und farbige Hauptmatrix sichtbar
+	•	✔️ Farbbedeutung bleibt wie zuvor:
+	•	🔵 Weniger Erfahrungen
+	•	🔴 Mehr Erfahrungen
+	•	⚪ Mittelbereich

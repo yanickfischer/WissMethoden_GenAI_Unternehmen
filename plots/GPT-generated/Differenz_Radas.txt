@@ -1,0 +1,11 @@
+Hier siehst du den Radar-Vergleich der Erwartung vs. Erfüllung als Durchschnitt über alle Gruppen:
+	•	Grau = Was erhofft wurde
+	•	Schwarz = Was tatsächlich erlebt wurde
+
+⸻
+
+💬 Interpretation:
+	•	Die graue Fläche liegt durchgängig über der schwarzen → ein klares Zeichen für eine systematische Untererfüllung der Erwartungen
+	•	Besonders sichtbar bei:
+	•	Zuverlässigkeit und Arbeitsentlastung
+	•	Innovation nähert sich am ehesten den Erwartungen an

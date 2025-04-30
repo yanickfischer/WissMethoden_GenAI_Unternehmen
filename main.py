@@ -143,37 +143,6 @@ def main():
                 print(f"✅ Gespeichert: {full_path}")
                 plt.close(fig)
 
-        # Matrixplots – numerische Skalenplot-Fragen (nach Konvertierung)
-        matrix_figures = []
-        for matrix_cols in matrix_fragen:
-            valid_matrix_cols = []
-            for col in matrix_cols:
-                if col in df.columns:
-                    try:
-                        df[col] = pd.to_numeric(df[col], errors='coerce')  # erzwinge Konvertierung
-                        valid_matrix_cols.append(col)
-                    except Exception as e:
-                        print(f"❌ Fehler bei Konvertierung der Spalte '{col}': {e}")
-            if valid_matrix_cols:
-                result = batch_plot_matrix(df, valid_matrix_cols, gruppe)
-                if isinstance(result, list):
-                    matrix_figures.extend(result)
-                elif result is not None:
-                    matrix_figures.append(result)
-                else:
-                    print(f"⚠️ batch_plot_matrix gab None zurück für Gruppe {gruppe} und Fragen {valid_matrix_cols}")
-            else:
-                print(f"⚠️ Ungültige oder nicht-konvertierbare Matrix-Fragenliste: {matrix_cols}")
-        if not matrix_figures:
-            print(f"⚠️ Keine Matrix-Plots für Gruppierung: {gruppe}")
-            continue
-        for i, fig in enumerate(matrix_figures):
-            filename = f"matrix_plot_{i+1}_{gruppe}.png"
-            full_path = os.path.join(matrix_dir, filename)
-            fig.savefig(full_path)
-            print(f"✅ Gespeichert: {full_path}")
-            plt.close(fig)
-
         print(f"✅ Alle Plots für {gruppe} abgeschlossen.\n")
         print("Gruppierungen nach Schlaufe:", gruppe)
 
