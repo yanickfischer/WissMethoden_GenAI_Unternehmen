@@ -83,7 +83,7 @@ GPT wurde verwendet, um:
 - explorative Schritte in Python effizient umzusetzen
 - Textbausteine, Visualisierungsstrategien und logische Strukturierung zu optimieren
 
-Die Datei [`Poster_GPT-Projekt_Instruktionen.pdf`](Collab_ChatGPT/Instruktionen/Poster_GPT-Projekt_Instruktionen.pdf) dokumentiert die initiale Aufgabenstellung und Zielsetzung, wie sie GPT vorgelegt wurde.
+Die Datei [`Poster_GPT-Projekt_Instruktionen.pdf`](Poster_GPT-Projekt_Instruktionen.pdf) dokumentiert die initiale Aufgabenstellung und Zielsetzung, wie sie GPT vorgelegt wurde.
 
 ---
 
