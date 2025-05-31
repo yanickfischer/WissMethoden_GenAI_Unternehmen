@@ -70,7 +70,7 @@ Wir legen besonderen Wert auf:
 | `visualisierungen.py` | Beinhaltet zentrale Plot-Vorlagen |
 | `results-survey_anonym_codiert_v2.csv` | Anonymisierter Umfragedatensatz |
 | `Collab_ChatGPT/Instruktionen/Poster_GPT-Projekt_Instruktionen.pdf` | Initiales GPT-Prompt zur Strukturierung des Projekts |
-| `Poster/POSTER_DRAFT_v2.pdf` | Finale Posterpräsentation für die ZHAW |
+| `results/GK3-08_Poster_A0.pdf` | Finale Posterpräsentation für die ZHAW |
 
 ---
 
@@ -90,7 +90,8 @@ Die Datei [`Poster_GPT-Projekt_Instruktionen.pdf`](Poster_GPT-Projekt_Instruktio
 ## 🧾 Präsentationsergebnis
 
 Das finale Ergebnis – ein **informatives, visuelles Poster** – wurde an der **ZHAW öffentlich präsentiert**  
-👉 Du findest es hier: [`POSTER_DRAFT_v2.pdf`](Poster/POSTER_DRAFT_v2.pdf)
+👉 Du findest es hier: 
+[GK3-08_Poster_A0.pdf](https://github.com/user-attachments/files/20533868/GK3-08_Poster_A0.pdf)
 
 ---
 
@@ -180,7 +181,7 @@ Key focus points:
 | `visualisierungen.py` | Contains reusable plot templates |
 | `results-survey_anonym_codiert_v2.csv` | Anonymized raw survey data |
 | `Collab_ChatGPT/Instruktionen/Poster_GPT-Projekt_Instruktionen.pdf` | Initial GPT prompt and instructions |
-| `Poster/POSTER_DRAFT_v2.pdf` | Final presentation poster (ZHAW event) |
+| `results/GK3-08_Poster_A0.pdf` | Final presentation poster (ZHAW event) |
 
 ---
 
@@ -200,7 +201,7 @@ The file [`Poster_GPT-Projekt_Instruktionen.pdf`](Collab_ChatGPT/Instruktionen/P
 ## 🧾 Presentation Outcome
 
 The final result — an **informative, visual poster** — was publicly presented at ZHAW.  
-👉 You can find it here: [`POSTER_DRAFT_v2.pdf`](Poster/POSTER_DRAFT_v2.pdf)
+👉 You can find it here: [GK3-08_Poster_A0.pdf](https://github.com/user-attachments/files/20533868/GK3-08_Poster_A0.pdf)
 
 ---
 
